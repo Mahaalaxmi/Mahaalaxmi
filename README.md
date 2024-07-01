@@ -25,8 +25,4 @@ I'm a dedicated Full-Stack developer who loves crafting innovative solutions and
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mahakgm0827?theme=dark&font=Marcellus)
-
----
-
 [![Mahaalaxmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahaalaxmi&bg_color=0b0a0a&color=f7f7f7&line=69e13d&point=fcf8f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
